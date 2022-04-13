@@ -1,6 +1,6 @@
 # Ask me anything!
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc+-label%3Ahidden)
+## [Ask a question](../../discussions/new?category=q-a) &nbsp;&nbsp;&nbsp; [Read questions](../../discussions)
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
